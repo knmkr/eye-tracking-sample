@@ -18,3 +18,8 @@ Prepare haarcascades files
 Compile
 
     $ g++ -o main eye-tracking.cpp `pkg-config --cflags opencv` `pkg-config --libs opencv`
+
+
+## Acknowledgment
+
+- OpenCV sample codes: http://opencv-code.com/
