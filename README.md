@@ -1,8 +1,3 @@
-# Eye Tracking Mouse
-
-Control mouse curser with eyes
-
-
 ## Getting Started
 
 Install OpenCV via Homebrew
